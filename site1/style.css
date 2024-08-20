@@ -100,3 +100,20 @@ footer a {
     font-size: 18px;
     z-index: 1;
 }
+
+h2 {
+    color: whitesmoke;
+    font-family: "Titillium Web", sans-serif;
+    text-align: center;
+    font-weight: 400;
+    margin-left: 50px;
+    z-index: 3;
+}
+
+/* Container for the two sections */
+.container {
+    display: flex; /* Enables flexbox layout */
+    justify-content: space-between; /* Distributes space between items */
+    gap: 20px; /* Adds space between columns */
+    padding: 20px; /* Optional: Adds padding around the container */
+}
