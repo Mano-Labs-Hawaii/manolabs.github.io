@@ -1,2 +1,2 @@
-# MERC-LABS-site
-The Official Website of MERC Labs
+# Mano Labs
+The Official Website of MANO Labs
